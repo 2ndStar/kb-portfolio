@@ -18,6 +18,3 @@ theme:
   font:
     text: Oxanium
     code: Oxanium
-
-plugins:
-- blog
